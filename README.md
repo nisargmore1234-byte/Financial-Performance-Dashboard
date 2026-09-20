@@ -57,4 +57,4 @@ To deliver an intuitive, executive-ready BI reporting tool that:
 
 ## 6. Screenshots / Demos
 
-![Dashboard Preview](Financial%20Performance%20Dashboard.png)
+![Dashboard Preview](https://github.com/nisargmore1234-byte/Financial-Performance-Dashboard/blob/main/Financial%20Performance%20Dashboard.png)
